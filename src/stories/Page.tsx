@@ -89,3 +89,5 @@ export const Page: React.FC = () => {
     </article>
   );
 };
+
+export default Page;
