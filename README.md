@@ -3,7 +3,7 @@
 This package works for me to pratice React components + Storybook + NPM publish
 
 ```
-npm i jp-my-storybook-components-97
+yarn add jp-my-storybook-components-97
 ```
 
 ### Demo
